@@ -2,7 +2,7 @@
 
 **What drives how long an EV takes to charge?** This project explores a dataset of 1,000 EV charging sessions to find which factors, if any, explain charging duration, with the goal of helping prospective buyers understand "charge anxiety."
 
-📓 [View the notebook](ev_charging_eda.ipynb) · 📄 [Read the paper (PDF)](ev_charging_paper.pdf) · 📊 [View the slides (PDF)](ev_charging_presentation.pdf)
+📓 [Notebook](ev_charging_eda.ipynb) · 📄 [Paper](ev_charging_paper.pdf) · 📊 [Presentation](ev_charging_presentation.pdf)
 
 ---
 
